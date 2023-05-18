@@ -1,0 +1,48 @@
+/**
+ * White theme for reveal.js. This is the opposite of the 'black' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(./fonts/poppins/poppins.css);
+
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: #fff;
+
+$mainColor: #333;
+$headingColor: #4777c0;
+
+$mainFontSize: 42px;
+$mainFont: 'Poppins',
+Helvetica,
+sans-serif;
+$headingFont: 'Poppins',
+Helvetica,
+sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$linkColor: #4777c0;
+$linkColorHover: #61bafb;
+$selectionBackgroundColor: #61bafb;
+
+$heading1Size: 2em;
+$heading2Size: 1.4em;
+$heading3Size: 1.2em;
+$heading4Size: 1.0em;
+
+// Change text colors against dark slide backgrounds
+@include dark-bg-text-color(#fff);
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------

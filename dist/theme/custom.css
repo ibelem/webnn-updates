@@ -1,0 +1,22 @@
+#p1 svg {
+  width: 50%;
+}
+
+.slides section div {
+  margin: 1em 0;
+}
+
+.f08 {
+  font-size: 0.8em;
+}
+
+.f06 {
+  font-size: 0.6em;
+}
+
+.g2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0px 24px;
+  grid-auto-flow: row;
+}
