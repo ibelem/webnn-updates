@@ -19,7 +19,7 @@
 $backgroundColor: #fff;
 
 $mainColor: #333;
-$headingColor: #4777c0;
+$headingColor: rgb(0, 113, 197);
 
 $mainFontSize: 42px;
 $mainFont: 'Poppins',
@@ -28,14 +28,14 @@ sans-serif;
 $headingFont: 'Poppins',
 Helvetica,
 sans-serif;
-$headingTextShadow: none;
 $headingLetterSpacing: normal;
-$linkColor: #4777c0;
+$headingFontWeight: bold;
+$linkColor: rgb(0, 113, 197);
 $linkColorHover: #61bafb;
 $selectionBackgroundColor: #61bafb;
 
 $heading1Size: 2em;
-$heading2Size: 1.4em;
+$heading2Size: 1.6em;
 $heading3Size: 1.2em;
 $heading4Size: 1.0em;
 

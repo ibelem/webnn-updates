@@ -19,20 +19,20 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: Poppins, Helvetica, sans-serif;
-  --r-heading-color: #4777c0;
+  --r-heading-color: #0071c5;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
   --r-heading-text-transform: uppercase;
   --r-heading-text-shadow: none;
-  --r-heading-font-weight: normal;
+  --r-heading-font-weight: bold;
   --r-heading1-text-shadow: none;
   --r-heading1-size: 2em;
-  --r-heading2-size: 1.4em;
+  --r-heading2-size: 1.6em;
   --r-heading3-size: 1.2em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
-  --r-link-color: #4777c0;
-  --r-link-color-dark: #30548b;
+  --r-link-color: #0071c5;
+  --r-link-color-dark: #0071c5;
   --r-link-color-hover: #61bafb;
   --r-selection-background-color: #61bafb;
   --r-selection-color: #fff;
@@ -66,6 +66,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal .slides section > section {
   line-height: 1.3;
   font-weight: inherit;
+  text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.1), 0px -4px 10px rgba(255, 255, 255, 0.1);
 }
 
 /*********************************************
@@ -84,7 +85,6 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   line-height: var(--r-heading-line-height);
   letter-spacing: var(--r-heading-letter-spacing);
   text-transform: var(--r-heading-text-transform);
-  text-shadow: var(--r-heading-text-shadow);
   word-wrap: break-word;
 }
 
