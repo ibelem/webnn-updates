@@ -1,9 +1,14 @@
 #p1 svg {
-  width: 50%;
+  width: 40%;
 }
 
-#p1 svg {
-  filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, 0.2));
+svg {
+  filter: drop-shadow(1px 3px 2px rgba(0, 0, 0, 0.1));
+}
+
+#p3 svg .rech:hover {
+  fill: #4777c0 !important;
+  color: #fff !important;
 }
 
 .slides section div {
