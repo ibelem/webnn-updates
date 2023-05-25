@@ -1,16 +1,17 @@
 {
-  "name": "webnn-update-2023-05",
+  "name": "webnn-updates",
   "version": "0.0.1",
   "description": "WebNN API 技术进展",
   "homepage": "https://webnn.dev",
-  "subdomain": "revealjs",
+  "subdomain": "",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",
   "scripts": {
     "test": "gulp test",
     "start": "gulp serve",
-    "build": "gulp build"
+    "build": "gulp build",
+    "package": "gulp package"
   },
   "repository": {
     "type": "git",
@@ -20,10 +21,9 @@
     "node": ">=10.0.0"
   },
   "keywords": [
-    "webnn",
-    "web neural network",
-    "webml",
-    "web machine learning"
+    "wpe",
+    "web",
+    "report"
   ],
   "devDependencies": {
     "@babel/core": "^7.14.3",

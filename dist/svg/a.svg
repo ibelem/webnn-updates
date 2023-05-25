@@ -1,0 +1,66 @@
+<svg width="970" height="549" viewBox="0 0 970 549" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.15" y="0.15" width="969.7" height="69.7" stroke="#DDDDDD" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="0.15" y="79.15" width="969.7" height="69.7" stroke="#DDDDDD" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="0.15" y="159.15" width="969.7" height="69.7" stroke="#DDDDDD" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="0.15" y="238.15" width="969.7" height="69.7" stroke="#DDDDDD" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="0.15" y="320.15" width="969.7" height="69.7" stroke="#DDDDDD" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="0.15" y="400.15" width="969.7" height="69.7" stroke="#DDDDDD" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="0.15" y="479.15" width="969.7" height="69.7" stroke="#DDDDDD" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="159.15" y="18.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.15" y="18.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="712.15" y="17.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="159.15" y="96.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.15" y="96.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="712.15" y="95.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="159.15" y="177.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="159.15" y="258.15" width="379.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="575.15" y="258.15" width="379.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="159.15" y="418.15" width="131.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="159.05" y="336.05" width="99.9" height="35.9" fill="#F9B508" stroke="white" stroke-width="0.1"/>
+<rect x="299.05" y="336.05" width="99.9" height="35.9" fill="#00C7FD" stroke="white" stroke-width="0.1"/>
+<rect x="439.05" y="336.05" width="99.9" height="35.9" fill="#FD0D8E" stroke="white" stroke-width="0.1"/>
+<rect x="575.15" y="336.15" width="99.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="715.15" y="336.15" width="99.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="855.15" y="336.15" width="99.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="325.15" y="418.15" width="131.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="657.15" y="418.15" width="131.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="491.15" y="418.15" width="131.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="823.15" y="418.15" width="131.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.05" y="177.05" width="242.9" height="35.9" fill="#26CC0B" stroke="white" stroke-width="0.1"/>
+<rect x="712.15" y="176.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="159.15" y="496.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.15" y="496.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="712.15" y="495.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="59" y="42.5">&#x6a21;&#x578b;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="29.5664" y="121.5">JS ML &#x6846;&#x67b6;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="59" y="521.5">&#x786c;&#x4ef6;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="25.748" y="361.5">&#x539f;&#x751f; ML API</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="39" y="442.5">&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="38.6289" y="201.5">Web API</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="33.6191" y="283.5">Web &#x5f15;&#x64ce;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="793.5" y="42.5">&#x5176;&#x4ed6;&#x6a21;&#x578b;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="202.375" y="42.5">TensorFlow &#x6a21;&#x578b;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="505.699" y="42.5">ONNX &#x6a21;&#x578b;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="180.373" y="121.5">TensorFlow Lite Web</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="458.834" y="121.5">ONNX Runtime Web</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="714.35" y="121.5">MediaPipe in JavaScript</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="206.574" y="201.5">Web Assembly</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="519.723" y="201.5">WebNN</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="790.463" y="201.5">WebGPU</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="260.236" y="521.5">CPU</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="536.178" y="521.5">GPU</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="813.93" y="521.5">NPU</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="211.627" y="283.5">Web &#x6d4f;&#x89c8;&#x5668; (Chrome, Edge)</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="169.361" y="360.8">XNNPack</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="302.436" y="360.8">ML Service</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="451.102" y="360.8">DirectML</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="588.886" y="360.8">oneDNN</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="718.805" y="360.8">OpenVINO</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="871.716" y="360.8">CoreML</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="189.686" y="442.8">Android</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="342.966" y="442.8">ChromeOS</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="517.324" y="442.8">Windows</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="701.08" y="441.8">Linux</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="856.821" y="441.8">macOS</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="596.562" y="283.5">JavaScript &#x8fd0;&#x884c;&#x65f6; (Node, Electron)</tspan></text>
+</svg>

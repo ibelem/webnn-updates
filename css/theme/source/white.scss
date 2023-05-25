@@ -12,31 +12,29 @@
 
 
 // Include theme-specific fonts
-@import url(./fonts/poppins/poppins.css);
+@import url(./fonts/source-sans-pro/source-sans-pro.css);
 
 
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: #fff;
 
-$mainColor: #333;
-$headingColor: #4777c0;
+$mainColor: #222;
+$headingColor: #222;
 
 $mainFontSize: 42px;
-$mainFont: 'Poppins',
-Helvetica,
-sans-serif;
-$headingFont: 'Poppins',
-Helvetica,
-sans-serif;
+$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingTextShadow: none;
 $headingLetterSpacing: normal;
-$headingFontWeight: 500;
-$linkColor: #4777c0;
-$linkColorHover: #4777c0;
-$selectionBackgroundColor: #00c7fd;
-$lightblueBackgroundColor: rgb(245, 250, 254);
-$heading1Size: 1.6em;
-$heading2Size: 1.4em;
-$heading3Size: 1.2em;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: #2a76dd;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
 $heading4Size: 1.0em;
 
 // Change text colors against dark slide backgrounds

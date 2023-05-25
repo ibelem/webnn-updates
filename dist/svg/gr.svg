@@ -1,0 +1,85 @@
+<svg width="1016" height="558" viewBox="0 0 1016 558" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M159 14.15H305C308.231 14.15 310.85 16.7691 310.85 20V44C310.85 47.2309 308.231 49.85 305 49.85H159C155.769 49.85 153.15 47.2309 153.15 44V20C153.15 16.7691 155.769 14.15 159 14.15Z" fill="#26CC0B" stroke="#26CC0B" stroke-width="0.3"/>
+<path d="M159 90.15H305C308.231 90.15 310.85 92.7691 310.85 96V120C310.85 123.231 308.231 125.85 305 125.85H159C155.769 125.85 153.15 123.231 153.15 120V96C153.15 92.7691 155.769 90.15 159 90.15Z" fill="#26CC0B" stroke="#26CC0B" stroke-width="0.3"/>
+<path d="M607 202.15H753C756.231 202.15 758.85 204.769 758.85 208V268C758.85 271.231 756.231 273.85 753 273.85H607C603.769 273.85 601.15 271.231 601.15 268V208C601.15 204.769 603.769 202.15 607 202.15Z" fill="#26CC0B" stroke="#26CC0B" stroke-width="0.3"/>
+<rect x="352.15" y="0.15" width="445.7" height="63.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="352.15" y="0.15" width="445.7" height="63.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="34.15" y="197.15" width="58.7" height="30.7" fill="#FD0D8E" fill-opacity="0.15" stroke="#FD0D8E" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="361" y="25.75">&#x8bbe;&#x5907;&#x504f;&#x597d;: cpu, gpu&#10;</tspan><tspan x="361" y="48.75">&#x529f;&#x8017;&#x504f;&#x597d;: default, high-performance, low-power</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="246" y="75.25">&#x521b;&#x5efa;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="246" y="150.25">&#x6784;&#x5efa; (&#x548c;&#x7b97;&#x5b50;&#x4e00;&#x8d77;)</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="566.5" y="227.25">&#x7f16;&#x8bd1;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="763.5" y="244.25">&#x8ba1;&#x7b97;</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="185.453" y="37.8">MLContext</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="48.5" y="217.75">&#x8f93;&#x5165;</tspan></text>
+<rect x="106.15" y="252.15" width="58.7" height="30.7" fill="#F9B508" fill-opacity="0.2" stroke="#F9B508" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="119.16" y="272.75">filter</tspan></text>
+<rect x="251.15" y="252.15" width="58.7" height="30.7" fill="#F9B508" fill-opacity="0.2" stroke="#F9B508" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="264.599" y="272.75">bias</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="107.763" y="217.75">conv2d</tspan></text>
+<path d="M103 213L98 210.113V215.887L103 213ZM93 213.5H98.5V212.5H93V213.5Z" fill="#00C7FD"/>
+<path d="M135 232L132.113 237H137.887L135 232ZM135.5 252V236.5H134.5V252H135.5Z" fill="#00C7FD"/>
+<path d="M280 232L277.113 237H282.887L280 232ZM280.5 252V236.5H279.5V252H280.5Z" fill="#00C7FD"/>
+<path d="M232 90L234.887 85H229.113L232 90ZM231.5 50V85.5H232.5V50H231.5Z" fill="#333333"/>
+<path d="M312 32L317 34.8868V29.1132L312 32ZM352 31.5L316.5 31.5V32.5L352 32.5V31.5Z" fill="#333333"/>
+<path d="M601 238L596 235.113V240.887L601 238ZM561 238.5H596.5V237.5H561V238.5Z" fill="#333333"/>
+<path d="M799 259L794 256.113V261.887L799 259ZM759 259.5H794.5V258.5H759V259.5Z" fill="#00C7FD"/>
+<path d="M759 219L764 221.887V216.113L759 219ZM799 218.5H763.5V219.5H799V218.5Z" fill="#00C7FD"/>
+<path d="M232 166L234.887 161H229.113L232 166ZM231.5 126V161.5H232.5V126H231.5Z" fill="#333333"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="161.354" y="113.8">MLGraphBuilder</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="640.08" y="243.8">MLGraph</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="634.5" y="342.775">&#x5df2;&#x7f16;&#x8bd1;&#x7684;&#x56fe;&#10;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="657.688" y="365.775">(&#x539f;&#x751f;)</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="24" y="465.75">&#x8ba1;&#x7b97;&#x56fe;&#x56fe;&#x4f8b;</tspan></text>
+<path d="M575 314.15H781C784.231 314.15 786.85 316.769 786.85 320V427C786.85 430.231 784.231 432.85 781 432.85H575C571.769 432.85 569.15 430.231 569.15 427V320C569.15 316.769 571.769 314.15 575 314.15Z" stroke="#333333" stroke-width="0.3"/>
+<path d="M6 165.15H555C558.231 165.15 560.85 167.769 560.85 171V304C560.85 307.231 558.231 309.85 555 309.85H5.99998C2.76912 309.85 0.15 307.231 0.15 304V171C0.15 167.769 2.76913 165.15 6 165.15Z" stroke="#333333" stroke-width="0.3"/>
+<path d="M167.85 213C167.85 218.171 164.263 222.881 158.405 226.306C152.551 229.728 144.453 231.85 135.5 231.85C126.547 231.85 118.449 229.728 112.595 226.306C106.737 222.881 103.15 218.171 103.15 213C103.15 207.829 106.737 203.119 112.595 199.694C118.449 196.272 126.547 194.15 135.5 194.15C144.453 194.15 152.551 196.272 158.405 199.694C164.263 203.119 167.85 207.829 167.85 213Z" fill="#26CC0B" fill-opacity="0.2" stroke="#26CC0B" stroke-width="0.3"/>
+<rect x="178.15" y="197.15" width="58.7" height="30.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="191.973" y="217.75">tmp</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="264.295" y="217.75">add</tspan></text>
+<path d="M247 213L242 210.113V215.887L247 213ZM237 213.5H242.5V212.5H237V213.5Z" fill="#00C7FD"/>
+<path d="M178 213L173 210.113V215.887L178 213ZM168 213.5H173.5V212.5H168V213.5Z" fill="#00C7FD"/>
+<path d="M311.85 213C311.85 218.171 308.263 222.881 302.405 226.306C296.551 229.728 288.453 231.85 279.5 231.85C270.547 231.85 262.449 229.728 256.595 226.306C250.737 222.881 247.15 218.171 247.15 213C247.15 207.829 250.737 203.119 256.595 199.694C262.449 196.272 270.547 194.15 279.5 194.15C288.453 194.15 296.551 196.272 302.405 199.694C308.263 203.119 311.85 207.829 311.85 213Z" fill="#26CC0B" fill-opacity="0.2" stroke="#26CC0B" stroke-width="0.3"/>
+<rect x="322.15" y="197.15" width="58.7" height="30.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="335.973" y="217.75">tmp</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="409.408" y="217.75">relu</tspan></text>
+<path d="M391 213L386 210.113V215.887L391 213ZM381 213.5H386.5V212.5H381V213.5Z" fill="#00C7FD"/>
+<path d="M322 213L317 210.113V215.887L322 213ZM312 213.5H317.5V212.5H312V213.5Z" fill="#00C7FD"/>
+<rect x="576.15" y="385.15" width="58.7" height="30.7" fill="#FD0D8E" fill-opacity="0.15" stroke="#FD0D8E" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="590.5" y="405.75">&#x8f93;&#x5165;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="656.597" y="394.25">fused </tspan><tspan x="649.763" y="417.25">conv2d</tspan></text>
+<path d="M645 401L640 398.113V403.887L645 401ZM635 401.5H640.5V400.5H635V401.5Z" fill="#00C7FD"/>
+<path d="M709.85 401C709.85 406.171 706.263 410.881 700.405 414.306C694.551 417.728 686.453 419.85 677.5 419.85C668.547 419.85 660.449 417.728 654.595 414.306C648.737 410.881 645.15 406.171 645.15 401C645.15 395.829 648.737 391.119 654.595 387.694C660.449 384.272 668.547 382.15 677.5 382.15C686.453 382.15 694.551 384.272 700.405 387.694C706.263 391.119 709.85 395.829 709.85 401Z" fill="#26CC0B" fill-opacity="0.2" stroke="#26CC0B" stroke-width="0.3"/>
+<rect x="720.15" y="385.15" width="58.7" height="30.7" fill="#00C7FD" fill-opacity="0.15" stroke="#00C7FD" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="734.5" y="405.75">&#x8f93;&#x51fa;</tspan></text>
+<path d="M720 401L715 398.113V403.887L720 401ZM710 401.5H715.5V400.5H710V401.5Z" fill="#00C7FD"/>
+<rect x="466.15" y="197.15" width="58.7" height="30.7" fill="#00C7FD" fill-opacity="0.15" stroke="#00C7FD" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="480.5" y="217.75">&#x8f93;&#x51fa;</tspan></text>
+<rect x="799.15" y="202.15" width="216.7" height="30.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="821.982" y="222.75">&#x8f93;&#x5165; Buffers (CPU/GPU)</tspan></text>
+<rect x="799.15" y="243.15" width="216.7" height="30.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="821.982" y="263.75">&#x8f93;&#x51fa; Buffers (CPU/GPU)</tspan></text>
+<path d="M466 213L461 210.113V215.887L466 213ZM456 213.5H461.5V212.5H456V213.5Z" fill="#00C7FD"/>
+<path d="M455.85 213C455.85 218.171 452.263 222.881 446.405 226.306C440.551 229.728 432.453 231.85 423.5 231.85C414.547 231.85 406.449 229.728 400.595 226.306C394.737 222.881 391.15 218.171 391.15 213C391.15 207.829 394.737 203.119 400.595 199.694C406.449 196.272 414.547 194.15 423.5 194.15C432.453 194.15 440.551 196.272 446.405 199.694C452.263 203.119 455.85 207.829 455.85 213Z" fill="#26CC0B" fill-opacity="0.2" stroke="#26CC0B" stroke-width="0.3"/>
+<rect x="16.15" y="487.15" width="91.7" height="30.7" fill="#FD0D8E" fill-opacity="0.15" stroke="#FD0D8E" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="24.5" y="507.75">&#x8f93;&#x5165;&#x64cd;&#x4f5c;&#x6570;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="24.5" y="507.75">&#x8f93;&#x5165;&#x64cd;&#x4f5c;&#x6570;</tspan></text>
+<rect x="115.15" y="487.15" width="91.7" height="30.7" fill="#F9B508" fill-opacity="0.2" stroke="#F9B508" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="123.5" y="507.75">&#x5e38;&#x91cf;&#x64cd;&#x4f5c;&#x6570;</tspan></text>
+<rect x="16.15" y="527.15" width="91.7" height="30.7" fill="#26CC0B" stroke="#26CC0B" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="21.1748" y="547.75">WebNN API</tspan></text>
+<rect x="115.15" y="527.15" width="91.7" height="30.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="13" letter-spacing="0em"><tspan x="120.026" y="547.05">&#x5176;&#x4ed6; Web API</tspan></text>
+<rect x="214.15" y="487.15" width="91.7" height="30.7" fill="#00C7FD" fill-opacity="0.15" stroke="#00C7FD" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="222.5" y="507.75">&#x8f93;&#x51fa;&#x64cd;&#x4f5c;&#x6570;</tspan></text>
+<rect x="313.15" y="487.15" width="91.7" height="30.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="321.5" y="507.75">&#x4e2d;&#x95f4;&#x64cd;&#x4f5c;&#x6570;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="251" y="547.75">&#x6570;&#x636e;&#x6d41;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="429.5" y="507.75">&#x7b97;&#x5b50;</tspan></text>
+<path d="M242 543L237 540.113V545.887L242 543ZM222 543.5H237.5V542.5H222V543.5Z" fill="#333333"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="351" y="547.75">&#x8c03;&#x7528;&#x6d41;</tspan></text>
+<path d="M344 543L339 540.113V545.887L344 543ZM324 543.5H339.5V542.5H324V543.5Z" fill="#333333"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="15" letter-spacing="0em"><tspan x="442" y="547.75">&#x5173;&#x8054;</tspan></text>
+<path d="M435 543L430 540.113V545.887L435 543ZM415 543.5H430.5V542.5H415V543.5Z" fill="#00C7FD"/>
+<path d="M476.85 503C476.85 508.171 473.263 512.881 467.405 516.306C461.551 519.728 453.453 521.85 444.5 521.85C435.547 521.85 427.449 519.728 421.595 516.306C415.737 512.881 412.15 508.171 412.15 503C412.15 497.829 415.737 493.119 421.595 489.694C427.449 486.272 435.547 484.15 444.5 484.15C453.453 484.15 461.551 486.272 467.405 489.694C473.263 493.119 476.85 497.829 476.85 503Z" fill="#26CC0B" fill-opacity="0.2" stroke="#26CC0B" stroke-width="0.3"/>
+</svg>

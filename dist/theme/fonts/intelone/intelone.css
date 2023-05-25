@@ -1,0 +1,13 @@
+	@font-face {
+			font-family: 'intel-one';
+			src: url("./intelone-display-regular.woff") format('woff'), url("./intelone-display-regular.ttf") format('truetype'), url("./intelone-display-regular.otf") format('opentype');
+			font-weight: normal;
+			font-style: normal
+		}
+
+		@font-face {
+			font-family: 'intel-one-bold';
+			src: url("./intelone-display-bold.woff") format('woff'), url("./intelone-display-bold.ttf") format('truetype'), url("./intelone-display-bold.otf") format('opentype');
+			font-weight: normal;
+			font-style: normal
+		}

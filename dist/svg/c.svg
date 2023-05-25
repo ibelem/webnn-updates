@@ -1,0 +1,94 @@
+<svg width="970" height="584" viewBox="0 0 970 584" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="150.15" y="143.15" width="811.7" height="116.7" fill="#00C7FD" fill-opacity="0.15" stroke="white" stroke-width="0.3"/>
+<path d="M435.15 148.15H955.85V206.85H435.15V148.15Z" fill="white" fill-opacity="0.5" stroke="white" stroke-width="0.3"/>
+<path d="M152 399H410V515H152V399Z" fill="#666666" fill-opacity="0.1"/>
+<path d="M152.15 399.15H409.85V514.85H152.15V399.15Z" stroke="white" stroke-opacity="0.1" stroke-width="0.3"/>
+<path d="M427 399H685V515H427V399Z" fill="#666666" fill-opacity="0.1"/>
+<path d="M427.15 399.15H684.85V514.85H427.15V399.15Z" stroke="white" stroke-opacity="0.1" stroke-width="0.3"/>
+<path d="M706.15 259.15H961.85V305.85H706.15V259.15Z" fill="#00C7FD" fill-opacity="0.15" stroke="white" stroke-width="0.3"/>
+<path d="M427.15 279.15H684.85V382.85H427.15V279.15Z" fill="#FD0D8E" fill-opacity="0.15" stroke="white" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="59" y="563.5">&#x786c;&#x4ef6;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="38.6289" y="107.5">Web API</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="25.2891" y="248.5">Chromium&#x2028;</tspan><tspan x="46.7344" y="278.5">/ Edge</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" letter-spacing="0em"><tspan x="435" y="414.1">Windows</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" letter-spacing="0em"><tspan x="159" y="414.1">ChromeOS</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="25.748" y="475.5">&#x539f;&#x751f; ML API</tspan></text>
+<rect x="159.15" y="15.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.15" y="15.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="712.15" y="15.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="29.5664" y="39.5">JS ML &#x6846;&#x67b6;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="180.373" y="39.5">TensorFlow Lite Web</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="458.834" y="39.5">ONNX Runtime Web</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="714.35" y="39.5">MediaPipe in JavaScript</tspan></text>
+<rect x="159.15" y="538.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.15" y="538.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="712.15" y="537.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="260.178" y="563.5">GPU</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="536.93" y="563.5">NPU</tspan></text>
+<rect x="159.15" y="470.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.15" y="470.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="248.459" y="495.5">NNHAL</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="524.479" y="495.5">MCDM</tspan></text>
+<rect x="159.15" y="418.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<rect x="435.15" y="418.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="228.762" y="443.5">ML Service</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="514.391" y="443.5">DirectML</tspan></text>
+<rect x="435.15" y="341.15" width="242.7" height="35.7" fill="#FD0D8E" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="491.725" y="366.5">DirectML &#x540e;&#x7aef;</tspan></text>
+<rect x="435.15" y="300.15" width="242.7" height="35.7" fill="#FD0D8E" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="459.166" y="325.5">WebNN Mojo Server</tspan></text>
+<rect x="435.15" y="218.15" width="242.7" height="35.7" fill="#FD0D8E" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="461.617" y="243.5">WebNN Mojo Client</tspan></text>
+<rect x="713.15" y="218.15" width="242.7" height="35.7" fill="#F9B508" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="767.791" y="243.5">XNNPack &#x540e;&#x7aef;</tspan></text>
+<rect x="713.15" y="264.15" width="242.7" height="35.7" stroke="#333333" stroke-width="0.3"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="790.457" y="289.5">XNNPack</tspan></text>
+<rect x="159.15" y="218.15" width="242.7" height="35.7" fill="#00C7FD" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="173.322" y="243.5">MLService Mojo Client</tspan></text>
+<rect x="159.15" y="83.15" width="242.7" height="35.7" fill="#D9D9D9" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="195.588" y="108.5">Model Loader API</tspan></text>
+<rect x="435.15" y="83.15" width="520.7" height="35.7" fill="#26CC0B" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="641.066" y="108.5">WebNN API</tspan></text>
+<rect x="443.15" y="165.15" width="149.7" height="35.7" fill="#26CC0B" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="471.453" y="189.8">MLContext</tspan></text>
+<rect x="621.15" y="165.15" width="149.7" height="35.7" fill="#26CC0B" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="625.354" y="189.8">MLGraphBuilder</tspan></text>
+<rect x="800.15" y="165.15" width="149.7" height="35.7" fill="#26CC0B" stroke="white" stroke-width="0.3"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="18" letter-spacing="0em"><tspan x="835.08" y="189.8">MLGraph</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" letter-spacing="0em"><tspan x="813.236" y="563.5">CPU</tspan></text>
+<line x1="280.001" y1="71.5" x2="835" y2="72.1278" stroke="#26CC0B"/>
+<line x1="336.001" y1="170.5" x2="435" y2="170.612" stroke="#00C7FD"/>
+<line x1="280.001" y1="529.5" x2="500.5" y2="529.749" stroke="#00C7FD"/>
+<line x1="337.001" y1="519.5" x2="557.5" y2="519.749" stroke="#FD0D8E"/>
+<rect x="0.15" y="0.15" width="969.7" height="583.7" stroke="#AAAAAA" stroke-opacity="0.5" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.000169683" y1="63.85" x2="970" y2="64.9473" stroke="#AAAAAA" stroke-opacity="0.5" stroke-width="0.3"/>
+<line x1="0.000169683" y1="523.85" x2="970" y2="524.947" stroke="#AAAAAA" stroke-opacity="0.5" stroke-width="0.3"/>
+<line x1="0.000169683" y1="390.85" x2="970" y2="391.947" stroke="#AAAAAA" stroke-opacity="0.5" stroke-width="0.3"/>
+<line x1="0.000169683" y1="131.85" x2="970" y2="132.947" stroke="#AAAAAA" stroke-opacity="0.5" stroke-width="0.3"/>
+<path d="M280.5 52V71.5" stroke="#26CC0B" stroke-linecap="round"/>
+<path d="M557.5 52V72" stroke="#26CC0B" stroke-linecap="round"/>
+<path d="M834.5 52V72" stroke="#26CC0B" stroke-linecap="round"/>
+<path d="M696 83L698.887 78H693.113L696 83ZM695.5 72V78.5H696.5V72H695.5Z" fill="#26CC0B"/>
+<path d="M696 144L698.887 139H693.113L696 144ZM695.5 119V139.5H696.5V119H695.5Z" fill="#26CC0B"/>
+<path d="M280 218L282.836 212.971L277.063 213.029L280 218ZM278.5 119.005L279.455 213.505L280.455 213.495L279.5 118.995L278.5 119.005Z" fill="#D9D9D9"/>
+<path d="M281 418L283.856 412.982L278.083 413.018L281 418ZM279.5 255.003L280.472 413.503L281.472 413.497L280.5 254.997L279.5 255.003Z" fill="#00C7FD"/>
+<path d="M836.454 536.996L839.31 531.978L833.537 532.013L836.454 536.996ZM834.5 300.003L835.926 532.499L836.926 532.493L835.5 299.997L834.5 300.003Z" fill="#F9B508"/>
+<path d="M835.061 264L837.917 258.982L832.144 259.018L835.061 264ZM834.5 254.003L834.534 259.503L835.534 259.497L835.5 253.997L834.5 254.003Z" fill="#F9B508"/>
+<path d="M280 470L282.887 465H277.113L280 470ZM279.5 454V465.5H280.5V454H279.5Z" fill="#00C7FD"/>
+<path d="M557 470L559.887 465H554.113L557 470ZM556.5 454V465.5H557.5V454H556.5Z" fill="#FD0D8E"/>
+<path d="M557 418L559.887 413H554.113L557 418ZM556.5 376V413.5H557.5V376H556.5Z" fill="#FD0D8E"/>
+<path d="M557 300L559.887 295H554.113L557 300ZM556.5 253V295.5H557.5V253H556.5Z" fill="#FD0D8E"/>
+<path d="M557 538L559.887 533H554.113L557 538ZM556.5 506V533.5H557.5V506H556.5Z" fill="#FD0D8E"/>
+<path d="M714 236L709 233.113V238.887L714 236ZM695 236.5H709.5V235.5H695V236.5Z" fill="#F9B508"/>
+<path d="M677 236L682 238.887V233.113L677 236ZM696 235.5H681.5V236.5H696V235.5Z" fill="#FD0D8E"/>
+<path d="M500 538L502.887 533H497.113L500 538ZM499.5 530V533.5H500.5V530H499.5Z" fill="#00C7FD"/>
+<path d="M336 538L338.887 533H333.113L336 538ZM335.5 519V533.5H336.5V519H335.5Z" fill="#FD0D8E"/>
+<path d="M280 538L282.887 533H277.113L280 538ZM279.5 506V533.5H280.5V506H279.5Z" fill="#00C7FD"/>
+<path d="M336 218L338.887 213H333.113L336 218ZM335.5 170V213.5H336.5V170H335.5Z" fill="#00C7FD"/>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" letter-spacing="0em"><tspan x="435" y="296.1">GPU &#x8fdb;&#x7a0b;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" letter-spacing="0em"><tspan x="561" y="276.1">IPC</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" letter-spacing="0em"><tspan x="284" y="276.1">IPC</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" letter-spacing="0em"><tspan x="628.234" y="162.1">Blink WebNN &#x6a21;&#x5757;</tspan></text>
+<text fill="#333333" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" letter-spacing="0em"><tspan x="159" y="165.1">Render &#x8fdb;&#x7a0b;</tspan></text>
+<line x1="695.5" y1="235.5" x2="695.5" y2="200.5" stroke="#26CC0B"/>
+</svg>
