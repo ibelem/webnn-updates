@@ -93,12 +93,24 @@
 	display: inline-block;
 }
 
-#comm svg.svg_h40 {
-	height: 40px;
+#comm svg.svg_h38 {
+	height: 38px;
 }
 
 #comm svg.svg_w80 {
 	width: 80px;
+}
+
+.selfie {
+	background: url('https://ibelem.github.io/webnn-updates/dist/images/webnn_selfiesegmentation.png') no-repeat;
+	background-position: 0% 0%;
+	background-size: 100%;
+}
+
+.deeplab {
+	background: url('https://ibelem.github.io/webnn-updates/dist/images/webnn_deeplab.png') no-repeat;
+	background-position: 0% 0%;
+	background-size: 100%;
 }
 
 .sliver {
