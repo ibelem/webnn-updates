@@ -17,6 +17,7 @@
 	--bg4: rgba(2, 18, 123, 1);
 	--bg4-09: rgba(2, 18, 123, 0.9);
 	--white-02: rgba(255, 255, 255, 0.2);
+	--white-09: rgba(255, 255, 255, 0.9);
 }
 
 .dnone {
@@ -79,6 +80,53 @@
 	font-size: 0.6em !important;
 }
 
+.g32 {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 12px;
+	grid-row-gap: 12px;
+}
+
+.adv>div {
+	border: 2px solid var(--second);
+	padding: 60px;
+	background-color: var(--bg-02);
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+	grid-column-gap: 12px;
+	grid-row-gap: 12px;
+	align-items: center;
+}
+
+.adv>div .des {
+	text-align: left;
+}
+
+.adv .logo svg path {
+	fill: var(--white-09);
+}
+
+.cur svg.webgl {
+	max-width: 16vw;
+	max-height: 22vh;
+}
+
+.cur svg.wasm {
+	max-width: 12vw;
+	max-height: 12vh;
+}
+
+.fl {
+	display: grid;
+	grid-template-rows: 1fr 1fr;
+	align-items: center;
+	justify-items: center;
+}
+
+.cur svg path, .cur svg polygon {
+	fill: var(--white-09);
+}
+
 #comm .svg {
 	display: flex;
 	flex-direction: row;
@@ -99,6 +147,27 @@
 
 #comm svg.svg_w80 {
 	width: 80px;
+}
+
+.ops svg, .ops img {
+	max-height: 32px;
+	display: inline-block;
+}
+
+.ops table th, .ops table td {
+	vertical-align: middle;
+	margin: 0 auto;
+	font-size: 0.6em;
+	padding: 0.4em 3em;
+}
+
+.reveal table th img {
+	margin: 0em 0.5em 0em 0.5em;
+}
+
+.ops table th {
+	text-align: center;
+	font-size: 0.8em;
 }
 
 .selfie {
