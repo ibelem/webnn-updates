@@ -106,14 +106,98 @@
 	fill: var(--white-09);
 }
 
-.cur svg.webgl {
-	max-width: 16vw;
-	max-height: 22vh;
+#voice #masonry-effect {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+#voice .item {
+		flex-direction: column;
+		margin-right: 1.5rem;
+		margin-bottom: 1.5rem;
+		position: relative;
+		width: calc(33.3% - 2rem);
+		background: linear-gradient(45deg, #281dd4cc, #a42bffcc);
+		border-radius: 12px;
+		padding: 2rem 2rem 2rem 4rem;
+		box-sizing: border-box;
+		font-variation-settings: 'wght' 600;
+		text-align: left;
 }
 
-.cur svg.wasm {
-	max-width: 12vw;
-	max-height: 12vh;
+#voice .item::before{
+  font-family:Arial;
+  content: "\201C";
+  color: var(--white-09);
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+#voice .item::after{
+  content: '';
+}
+
+#voice .item:nth-of-type(5) {
+		background: linear-gradient(45deg, #d4581dcc, #ffbe2bcc);
+}
+#voice .item:nth-of-type(3) {
+  background: linear-gradient(45deg, #d41d71cc, #a42bffcc);
+}
+#voice .item:nth-of-type(1) {
+  background: linear-gradient(45deg, #1d5ed4cc, #2bbbffcc);
+}
+#voice .item:nth-of-type(9), .item:nth-of-type(7) {
+  background: linear-gradient(45deg, #85d41dcc, #2bd8ffcc);
+}
+
+.m-2 {
+	margin: 0 2em;
+}
+
+.g13 {
+	display: grid;
+	grid-template-columns: 2fr 3fr;
+	grid-column-gap: 12px;
+	grid-row-gap: 12px;
+	align-items: center;
+}
+
+#xpu .g32 div {
+	align-items: center;
+	justify-items: center;
+}
+
+#xpu .g32 div svg {
+	max-width: 120px;
+	max-height: 120px;
+}
+
+#intro .cols {
+	max-width: 1080px;
+  margin: 0 auto;
+  column-width: 10em;
+  column-gap: 4em;
+  column-rule: 1px solid #ccc;
+}
+
+#intro .cols div {
+	text-align: center;
+	padding: 1em;
+}
+
+#intro blockquote {
+  margin: 1em 0;
+  column-span: all;
+  text-align: center;
+	width: 100%;
+}
+
+.masonry {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+	grid-template-rows: masonry;
 }
 
 .fl {
@@ -123,8 +207,8 @@
 	justify-items: center;
 }
 
-.cur svg path, .cur svg polygon {
-	fill: var(--white-09);
+#spec img {
+	max-width: 70%;
 }
 
 #comm .svg {
@@ -157,8 +241,8 @@
 .ops table th, .ops table td {
 	vertical-align: middle;
 	margin: 0 auto;
-	font-size: 0.6em;
-	padding: 0.4em 3em;
+	font-size: 0.8em;
+	padding: 0.2em 3em;
 }
 
 .reveal table th img {
@@ -247,6 +331,10 @@ table tr td {
 
 .mt-n1 {
 	margin-top: -0.8em !important;
+}
+
+.mt-n2 {
+	margin-top: -1.2em !important;
 }
 
 .mt-1 {
