@@ -2499,6 +2499,158 @@
 				</section>
 
 				<section>
+					<div class="code">
+						<h2 class="lg">WebNN 代码示例</h2>
+						<div class="g2 m-2">
+							<div>
+								<pre>
+										<code data-trim data-noescape>
+										const context = await navigator.ml.createContext({powerPreference: 'low-power'});
+
+										// The following code builds a graph as:
+										// constant1 ---+
+										//              +--- Add ---> intermediateOutput1 ---+
+										// input1    ---+                                    |
+										//                                                   +--- Mul---> output
+										// constant2 ---+                                    |
+										//              +--- Add ---> intermediateOutput2 ---+
+										// input2    ---+
+
+										// Use tensors in 4 dimensions.
+										const TENSOR_DIMS = [1, 2, 2, 2];
+										const TENSOR_SIZE = 8;
+
+										const builder = new MLGraphBuilder(context);
+
+										// Create MLOperandDescriptor object.
+										const desc = {type: 'float32', dimensions: TENSOR_DIMS};
+
+										// constant1 is a constant MLOperand with the value 0.5.
+										const constantBuffer1 = new Float32Array(TENSOR_SIZE).fill(0.5);
+										const constant1 = builder.constant(desc, constantBuffer1);
+
+										// input1 is one of the input MLOperands. Its value will be set before execution.
+										const input1 = builder.input('input1', desc);
+
+										// constant2 is another constant MLOperand with the value 0.5.
+										const constantBuffer2 = new Float32Array(TENSOR_SIZE).fill(0.5);
+										const constant2 = builder.constant(desc, constantBuffer2);
+									</code>
+								</pre>
+							</div>
+							<div>
+								<pre>
+									<code data-trim data-noescape>
+									// input2 is another input MLOperand. Its value will be set before execution.
+									const input2 = builder.input('input2', desc);
+
+									// intermediateOutput1 is the output of the first Add operation.
+									const intermediateOutput1 = builder.add(constant1, input1);
+
+									// intermediateOutput2 is the output of the second Add operation.
+									const intermediateOutput2 = builder.add(constant2, input2);
+
+									// output is the output MLOperand of the Mul operation.
+									const output = builder.mul(intermediateOutput1, intermediateOutput2);
+
+									// Compile the constructed graph.
+									const graph = await builder.build({'output': output});
+
+									// Setup the input buffers with value 1.
+									const inputBuffer1 = new Float32Array(TENSOR_SIZE).fill(1);
+									const inputBuffer2 = new Float32Array(TENSOR_SIZE).fill(1);
+									const outputBuffer = new Float32Array(TENSOR_SIZE);
+
+									// Execute the compiled graph with the specified inputs.
+									const inputs = {
+										'input1': inputBuffer1,
+										'input2': inputBuffer2,
+									};
+									const outputs = {'output': outputBuffer};
+									const results = await context.compute(graph, inputs, outputs);
+
+									console.log('Output value: ' + results.outputs.output);
+									// Output value: 2.25,2.25,2.25,2.25,2.25,2.25,2.25,2.25
+								</code>
+							</pre>
+							</div>
+						</div>
+
+					</div>
+				</section>
+
+				<section>
+					<div class="code">
+						<h2 class="lg">WebNN 与 ONNXRuntime Web 集成的代码示例</h2>
+						<div class="g2 m-2">
+							<div>
+								<pre>
+										<code data-trim data-noescape>
+											import { InferenceSession } from "onnxruntime-web";
+
+											// ...
+
+											// Initialize the ONNX model
+											const initModel = async () => {
+												ort.env.wasm.numThreads = 1; // 4
+												ort.env.wasm.simd = true;
+												ort.env.wasm.proxy = true; 
+
+												const options: InferenceSession.SessionOptions = {
+													// provider name: wasm, webnn
+													// deviceType: cpu, gpu
+													// powerPreference: default, high-performance
+													executionProviders: 
+														[{ name: "wasm"}], // WebAssembly CPU
+												};
+
+												// ...
+											};
+
+											const results = await model.run(feeds);
+											const output = results[model.outputNames[0]];
+									</code>
+								</pre>
+
+								WebAssembly Backend
+							</div>
+							<div>
+								<pre>
+									<code data-trim data-noescape>
+										import { InferenceSession } from "onnxruntime-web";
+
+										// ...
+
+										// Initialize the ONNX model
+										const initModel = async () => {
+											env.wasm.numThreads = 1; // 4
+											env.wasm.simd = true;
+											env.wasm.proxy = true;
+
+											const options: InferenceSession.SessionOptions = {
+												// provider name: wasm, webnn
+												// deviceType: cpu, gpu
+												// powerPreference: default, high-performance
+												executionProviders: 
+													[{ name: "webnn", deviceType: "gpu", powerPreference: 'default' }],
+											};
+
+											// ...
+										};
+
+										const results = await model.run(feeds);
+										const output = results[model.outputNames[0]];
+								</code>
+							</pre>
+
+								WebNN Backend
+							</div>
+						</div>
+
+					</div>
+				</section>
+
+				<section>
 					<div>
 						<h2 class="lg">WebNN 性能数据 (标准化)</h2>
 					</div>
