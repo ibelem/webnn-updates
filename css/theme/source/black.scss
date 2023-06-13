@@ -38,10 +38,10 @@ $linkColor: rgba(0, 198, 253, 1);
 $linkColorHover: lighten($linkColor, 15%);
 $selectionBackgroundColor: rgba($linkColor, 0.75);
 
-$heading1Size: 2em;
-$heading2Size: 1.4em;
-$heading3Size: 1.2em;
-$heading4Size: 1.0em;
+$heading1Size: 2.6em;
+$heading2Size: 1.8em;
+$heading3Size: 1.4em;
+$heading4Size: 1.2em;
 
 // Change text colors against light slide backgrounds
 @include light-bg-text-color(#222);

@@ -288,7 +288,7 @@
 	border: 3px solid var(--second);
 	padding: 60px;
 	background-color: var(--bg-08);
-	width: 52vw;
+	width: 60vw;
 	justify-self: center;
 	font-weight: 600;
 }
@@ -423,4 +423,10 @@ table tr td {
 
 .thankyou svg {
 	width: 20vw;
+}
+
+@media only screen and (max-width: 1024px) {
+	.sliver {
+		width: auto !important;
+	}
 }
