@@ -304,8 +304,24 @@
 	grid-column-gap: 1em;
 }
 
+.g53 {
+	display: grid;
+	grid-template-columns: 5fr 3fr;
+	grid-template-rows: 1fr;
+	grid-column-gap: 1em;
+	align-items: center;
+}
+
 .l {
 	text-align: left;
+}
+
+.g53 .r {
+	justify-self: center;
+}
+
+.r.img {
+	max-width: 13vw;
 }
 
 .g {
@@ -344,7 +360,8 @@ table tr td {
 }
 
 .pnp {
-	height: 52vh;
+	height: 90vh;
+	padding-left: 4em;
 }
 
 .mt-n0 {

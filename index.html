@@ -78,10 +78,15 @@
 									<circle cx="156" cy="131" r="15" fill="white" />
 								</svg>
 							</div>
-							<h1 class="lg l">WebNN 最新技术进展</h1>
-							<div class="l">
-								<div>胡宁馨 ningxin.hu@intel.com<br>张敏 belem.zhang@intel.com</div>
-								<div class="mt-1">英特尔 SATG Web 平台工程<br>2023 年 6 月</div>
+							<h1 class="lg l">WebNN 技术进展</h1>
+							<div class="g53">
+								<div class="l">
+									<div>胡宁馨 ningxin.hu@intel.com<br>张敏 belem.zhang@intel.com</div>
+									<div class="mt-1">英特尔 SATG Web 平台工程<br>2023 年 6 月</div>
+								</div>
+								<div class="r img">
+									<img src="https://ibelem.github.io/webnn-updates/dist/images/qrcode_group.png" />
+								</div>
 							</div>
 						</div>
 					</div>
@@ -2612,7 +2617,7 @@
 									</code>
 								</pre>
 
-								WebAssembly Backend
+								WebAssembly 后端
 							</div>
 							<div>
 								<pre>
@@ -2643,7 +2648,7 @@
 								</code>
 							</pre>
 
-								WebNN Backend
+								WebNN 后端
 							</div>
 						</div>
 
@@ -2652,66 +2657,28 @@
 
 				<section>
 					<div>
-						<h2 class="lg">WebNN 性能数据 (标准化)</h2>
+						<h2 class="lg">WebNN XNNPack/CPU 性能数据 (标准化)</h2>
 					</div>
-					<div class="g2 f8 mt-2">
+					<div class="f8 mt-2">
 						<div>
-							<h2>TensorFlow-Lite Web / CPU</h2>
-							<div class="unit">越高越好</div>
+							<div class="unit">MediaPipe 模型, 越高越好</div>
 							<div class="pnp">
 								<canvas data-chart="bar">
 									<!--
 											{
-											"data": {
-											"labels": [" MobileNetV2", " ResNet50V2"],
-											"datasets":[
-											{
-											"data":[1.0, 1.0],
-											"label":"XNNPack Delegate (Wasm SIMD)","backgroundColor":"rgb(253, 13, 142)"
-											},
-											{
-											"data":[3.0, 3.4],
-											"label":"XNNPack Delegate (Wasm SIMD + Threads)","backgroundColor":"#F9B508"
-											},
-											{
-											"data":[9.6, 8.8],
-											"label":"WebNN Delegate (XNNPack 后端)","backgroundColor":"rgb(38, 204, 11)"
-											},
-											{
-											"data":[9.8, 8.9],
-											"label":"原生 TFLite XNNPack Delegate","backgroundColor":"rgb(0, 198, 253, 1)"
-											}
-											]
-											}
-											}
-										-->
-								</canvas>
-							</div>
-						</div>
-						<div>
-							<h2>ONNXRuntime Web / GPU</h2>
-							<div class="unit">越高越好</div>
-							<div class="pnp">
-								<canvas data-chart="bar">
-									<!--
-											{
-											"data": {
-											"labels": [" MobileNetV2", " SqueezeNetV1.1", " Emotion FerPlus", " Yolo"],
-											"datasets":[
-											{
-											"data":[1.0, 1.0, 1.0, 1.0],
-											"label":"WebGL EP","backgroundColor":"#F9B508"
-											},
-											{
-											"data":[2.8, 8.0, 7.8, 12.7],
-											"label":"WebNN EP (DirectML 后端)","backgroundColor":"rgb(38, 204, 11)"
-											},
-											{
-											"data":[2.9, 8.6, 7.9, 13.0],
-											"label":"原生 ONNX RT DirectML EP","backgroundColor":"rgb(0, 198, 253, 1)"
-											}
-											]
-											}
+												"data": {
+													"labels": [" MobileNetV3", " MobileNetV2", " EfficientDet-Lite0", " EfficientDet-Lite2", " SSDMobileNet-V2", " EfficientNet-Lite0", " EfficientNet-Lite2", " SelfieSegmenter (square)", " SelfieSegmenter (landscape)", " SelfieMulticlass (256 x 256)", " DeepLab-V3", " MagicTouch", " Hand Detector", " Hand Landmarks", " BlazeFace (full-range)", " BlazeFace (short-range)", " Face Detector", " Face Landmarks", " Pose Landmarks", " SqueezeNetV1.1", " ResNet50V2"],
+													"datasets": [
+														{
+															"data":[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+															"label":"Wasm SIMD","backgroundColor":"rgb(253, 13, 142)"
+														},
+														{
+															"data":[2.5, 2.5, 2.7, 2.8, 2.8, 2.8, 2.9, 1.6, 1.4, 2.8, 2.9, 2.6, 2.5, 2.9, 2.4, 2.0, 1.9, 1.7, 2.7, 3.2, 2.6],
+															"label":"WebNN XNNPACK/CPU","backgroundColor":"rgb(38, 204, 11)"
+														}
+													]
+												}
 											}
 										-->
 								</canvas>
